@@ -1,0 +1,46 @@
+# Task 2 - Customer Segmentation Using K-Means Clustering
+
+## Project Overview
+
+This project focuses on customer segmentation using Machine Learning techniques as part of the SkillCraft Technology Machine Learning Internship.
+
+The goal is to group customers into different segments based on their characteristics and purchasing behavior using the K-Means Clustering algorithm.
+
+## Objective
+
+* Analyze customer data.
+* Apply K-Means Clustering to identify customer groups.
+* Visualize the clusters to understand customer patterns.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## Methodology
+
+1. Load and explore the dataset.
+2. Clean and preprocess the data.
+3. Select relevant features for clustering.
+4. Apply the K-Means Clustering algorithm.
+5. Visualize and interpret the resulting clusters.
+
+## Results
+
+The clustering results help identify groups of customers with similar characteristics. The number and interpretation of clusters depend on the dataset and model results.
+
+## Files
+
+* `SCT_ML_Task2_Customer_Segmentation.ipynb` - Notebook containing the code and analysis.
+* Dataset files or result visualizations, if appropriate.
+
+## Conclusion
+
+This project demonstrates how unsupervised Machine Learning can be used to segment customers and discover patterns in customer data.
+
+## Internship
+
+SkillCraft Technology - Machine Learning Internship
